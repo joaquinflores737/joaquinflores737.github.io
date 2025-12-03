@@ -2,11 +2,10 @@
 
 This is my home page! My name is Joaquin Lopez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. I plan on graduating in 2029.
 
-## Computer Science Projects
 
 My GitHub page is http://github.com/joaquinflores737.
 
-### CPSC 120
+### Favorite CPSC 120L Labs
 
 * Lab 2
 
